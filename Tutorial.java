@@ -13,3 +13,11 @@ public class Tutorial{
   }
 }
 //This is assuming there is a possible 
+public class Tutorial{
+  public static void main(String[] args) throws IOException {
+    Scanner sc = new Scanner(new File("filename.type"));
+    while(!stopCondition){ //stopCondition
+      
+    }
+  }
+}
